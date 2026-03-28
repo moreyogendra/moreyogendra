@@ -1,5 +1,5 @@
 # 💫 About Me:
-MERN Stack & Frontend Developer | HTML, CSS, JavaScript, BootstrapSkilled in building full-stack web applications using MongoDB, Express.js, React.js, Node.js, along with strong frontend skills in HTML, CSS, JavaScript, and Bootstrap. Passionate about creating responsive, user-friendly interfaces and efficient backend solutions. Eager to collaborate on innovative projectsew projects!
+MERN Stack & Frontend Developer + Backend Developer | HTML, CSS, JavaScript, BootstrapSkilled in building full-stack web applications using MongoDB, Express.js, React.js, Node.js, along with strong frontend skills in HTML, CSS, JavaScript, and Bootstrap. Passionate about creating responsive, user-friendly interfaces and efficient backend solutions. Eager to collaborate on innovative projectsew projects!
 
 
 ## 🌐 Socials:
