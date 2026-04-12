@@ -1,5 +1,5 @@
 # 💫 About Me:
-MERN Stack Web Developer & Frontend Developer & Backend Developer | HTML, CSS, JavaScript, Tailwind CSS & BootstrapSkilled in building full-stack web applications using MongoDB, Express.js, React.js, Node.js, along with strong frontend skills in HTML, CSS, JavaScript, and Bootstrap. Passionate about creating responsive, user-friendly interfaces and efficient backend solutions. Eager to collaborate on innovative projectsew projects!
+MERN Stack Web Developer & Frontend Developer + Backend Developer | HTML, CSS, JavaScript, Tailwind CSS & BootstrapSkilled in building full-stack web applications using MongoDB, Express.js, React.js, Node.js, along with strong frontend skills in HTML, CSS, JavaScript, and Bootstrap. Passionate about creating responsive, user-friendly interfaces and efficient backend solutions. Eager to collaborate on innovative projectsew projects!
 
 
 ## 🌐 Socials:
